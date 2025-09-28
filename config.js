@@ -14,5 +14,6 @@ const CONFIG = {
     mess: 'Anh biết mà, Anh cũng thích em lắm 🥰. Love you 300.000 😘😘',
     messDesc: 'Cho em xem một bất ngờ nè :33 ',
     btnAccept: 'Ok lun 💖',
-    messLink: 'https://fksanfkdnf.github.io/trai-tim/'
+    messLink: 'https://dinhcongtru98-ui.github.io/Traitim/'
 }
+
